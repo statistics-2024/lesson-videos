@@ -1,21 +1,61 @@
 // Video Data
 const videoData = [
     {
-        week: 5,
-        title: 'Pertemuan 6 - Uji Hipotesis',
-        date: 2,
-        month: 10,
-        year: 2024,
-        url: 'https://youtube.com'
-    },
-    {
         week: 6,
         title: 'Pertemuan 6 - Uji Hipotesis',
-        date: 9,
+        date: 3,
+        month: 10,
+        year: 2024,
+        url: 'https://youtu.be/5gvB860H5MI'
+    },
+    {
+        week: 8,
+        title: 'Pertemuan 8 - ANOVA',
+        date: 20,
+        month: 10,
+        year: 2024,
+        url: 'https://youtu.be/UTxNvTd1wUc'
+    },
+    {
+        week: 9,
+        title: 'Pertemuan 9 - ANOVA Faktorial',
+        date: 20,
         month: 10,
         year: 2024,
         url: 'https://google.com'
-    }
+    },
+    {
+        week: 10,
+        title: 'Pertemuan 10 - Korelasi & Regresi Sederhana',
+        date: 20,
+        month: 10,
+        year: 2024,
+        url: 'https://youtu.be/wMdQqX1bpN0'
+    },
+    {
+        week: 11,
+        title: 'Pertemuan 11 - Korelasi & Regresi Ganda',
+        date: 20,
+        month: 10,
+        year: 2024,
+        url: 'https://youtu.be/VJkY-77unbU'
+    },
+    {
+        week: 12,
+        title: 'Pertemuan 12 - Statistika Nonparametrik I: Uji Kecocokan & Uji Persyaratan Analisis',
+        date: 20,
+        month: 10,
+        year: 2024,
+        url: 'https://youtu.be/JeOiwqXIF-I'
+    },
+    {
+        week: 13,
+        title: 'Pertemuan 13 - Statistika Nonparametrik II: Uji Hipotesis Komparatif & Asosiatif',
+        date: 20,
+        month: 10,
+        year: 2024,
+        url: 'https://youtu.be/KD1F82-aCQg'
+    },
 ];
 
 // Core Logic
