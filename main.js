@@ -30,7 +30,7 @@ const videoData = [
         date: 14,
         month: 11,
         year: 2024,
-        url: 'https://youtu.be/wMdQqX1bpN0'
+        url: 'https://youtu.be/8DWYevhoIo0'
     },
     {
         week: 11,
